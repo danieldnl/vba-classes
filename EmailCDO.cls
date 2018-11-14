@@ -12,8 +12,8 @@ Attribute VB_Exposed = False
 'Envio de email através da biblioteca Microsoft CDO
 'Uso:
     '-> Dim email As New email
-    '-> email.de = "dnl@mail.caixa"
-    '-> email.para = "dnl@mail.caixa"
+    '-> email.de = "dnl@mail.com"
+    '-> email.para = "dnl@mail.com"
     '-> email.cc = "dnl@mail.com"
     '-> email.assunto = "Teste"
     '-> email.texto = "<h1>Teste de email CDO</h1>"
